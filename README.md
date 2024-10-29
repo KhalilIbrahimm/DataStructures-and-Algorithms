@@ -59,6 +59,7 @@ Each algorithm can be executed independently. For example, to run Dijkstra's Alg
 python dijkstra_algorithm.py
 ```
 
+### Created and Maintained by
 
-By Khalil Ibrahim 
-Master's Student in Machine Learning
+**Khalil Ibrahim**  
+*Master's Student in Machine Learning*
