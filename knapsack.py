@@ -2,11 +2,6 @@
 # Knapsack algorithm - Dynamic Programming
 
 
-
-## Base case er OPT(0,w) = 0, at hvis det ikk er noen items, er verdien 0, da du ikke kan ta noe items.
-## OPT(i,w) = max(OPT(i-1.W-w_i) + v_i) # ta forrige element, subtrakt totale vekten med element vekten du tar + value du tar, OPT(i-1,w) # hvis du ikke skal ta elementet
-
-
 def knapsack(weights: list, values: list, capacity: int) -> int:
     """
     Solves the 0/1 Knapsack problem using dynamic programming.
