@@ -57,6 +57,8 @@ Each algorithm can be executed independently. For example, to run Dijkstra's Alg
 
 ```bash
 python dijkstra_algorithm.py
+```
+
 
 By Khalil Ibrahim 
 Master's Student in Machine Learning
